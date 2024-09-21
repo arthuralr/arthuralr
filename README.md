@@ -5,5 +5,6 @@
 ![CSS3](https://img.shields.io/badge/CSS3-blue?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=javascript)
 ## Future stacks
-![Swift](https://img.shields.io/badge/Swift-5.4-orange?style=flat-square&logo=swift)
+![Python](https://img.shields.io/badge/Python-3.9-blue?style=flat-square&logo=python)
+
 
