@@ -5,4 +5,5 @@
 ![CSS3](https://img.shields.io/badge/CSS3-blue?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=javascript)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Buddhinha&layout=compact)
 
