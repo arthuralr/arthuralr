@@ -7,3 +7,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Buddhinha&layout=compact)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blyxyas&layout=compact)
