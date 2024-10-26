@@ -6,3 +6,5 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=javascript)
 ![PHP](https://img.shields.io/badge/PHP-%20-brightgreen.svg)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=<Buddhinha>&layout=compact&langs_count=10)
+
