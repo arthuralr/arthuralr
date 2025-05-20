@@ -1,5 +1,7 @@
 それがガリたちだ
-[![3LdCBrx.th.png](https://iili.io/3LdCBrx.th.png)](https://freeimage.host/i/3LdCBrx)
+<div align="center">
+  <img src="https://iili.io/3LdCBrx.png" alt="COLLECTTRUMPCARDS.COM" style="width: 100%; max-width: 100%;">
+</div>
 
          
 # 💻 Tech Stack:   
