@@ -1,4 +1,5 @@
 それがガリたちだ
+[![3LdCBrx.th.png](https://iili.io/3LdCBrx.th.png)](https://freeimage.host/i/3LdCBrx)
 
          
 # 💻 Tech Stack:   
