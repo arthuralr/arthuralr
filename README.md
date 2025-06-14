@@ -24,3 +24,6 @@
 [![](https://visitcount.itsvg.in/api?id=Buddhinha&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+[![Flag Counter](https://s01.flagcounter.com/count2/qvDp/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/)](https://info.flagcounter.com/qvDp)
+
