@@ -16,7 +16,10 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Buddhinha&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![3D Contributions](https://raw.githubusercontent.com/Buddhinha/Buddhinha/main/profile-3d-contrib/profile-gitblock.svg)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Buddhinha/Buddhinha/main/profile-3d-contrib/profile-gitblock.svg" alt="3D Contributions GitBlock">
+</p>
 
 
 ### ✍️ Random Dev Quote
