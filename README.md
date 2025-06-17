@@ -3,7 +3,7 @@ Follow-me, please
 
 
 <div align="center">
-  <img src="https://iili.io/3LdCBrx.png" alt="COLLECTTRUMPCARDS.COM" style="width: 100%; max-width: 100%;">
+  <img src="https://iili.io/3LdCBrx.png" alt="COLLECTTRUMPCARDS.COM" style="width: 100%; max-width: 100%;"> 
 </div> 
    xml
           
