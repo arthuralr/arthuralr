@@ -1,6 +1,7 @@
 それがガリたちだ
 Follow-me, please
-555
+
+
  
 <div align="center">
   <img src="https://iili.io/3LdCBrx.png" alt="COLLECTTRUMPCARDS.COM" style="width: 100%; max-width: 100%;">
