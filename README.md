@@ -20,6 +20,9 @@ Follow-me, please
 
 ![](https://github-readme-stats.vercel.app/api?username=Buddhinha&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Buddhinha&theme=dark&hide_border=false)<br/>
+
+![Snake animation](https://raw.githubusercontent.com/seu-usuario/seu-repo/output/github-snake.svg)
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Buddhinha&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
